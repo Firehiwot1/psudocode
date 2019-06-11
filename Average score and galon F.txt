@@ -1,0 +1,23 @@
+Problem 1
+Input
+10 Exam scores
+Calculater
+Exam paper
+Processing
+Recive the scores
+Count the number of scores
+choose 10 scores   
+add the ten scores  
+Devided by number of scores  
+Out put
+Display if the average score is calculated  
+
+Problem 2   
+Input 
+Measurment
+Dimensions of the foot prints of the roof
+Processing
+Multiply the roof dimensions by the number of inches of rainfall
+Divided the result by 231
+Output
+Display if the number of gallon claculated                                                   
